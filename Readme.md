@@ -1,5 +1,5 @@
-Olá sou o Andre e sou programador
+Olá meu nome é Andre, aluno da Unifebe
 
-opa tudo certo
+Tudo Certo
 
 Commit de Jefferson Gabriel
